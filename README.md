@@ -1,6 +1,6 @@
 
 ## Informasi Umum
-Aplikasi ini dibuat dengan menggunakan PHP 8.0 dan Laravel 10.0.
+Aplikasi ini dibuat dengan menggunakan PHP 8.2.0 dan Laravel 10.4.1.
 
 ## Versi Database
 Aplikasi ini menggunakan database MySQL 8.0.
